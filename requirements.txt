@@ -1,0 +1,10 @@
+tensorboard
+easydict
+mxnet
+onnx
+opencv-python
+torch
+torchvision
+scikit-learn
+scipy
+black
